@@ -9,3 +9,12 @@ Terminal Commands
 Navigate to the folder you want this to be in.
 * 'git clone (paste repository url from github)
 this should put the repository in your folder
+
+to commit 
+*git commit -m "comments here"
+
+to push
+*git push
+
+create new file 
+*touch (filename.filetype)
